@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TransitionShowcase</string>
+    <string name="action_settings">Settings</string>
+    <string name="views_normal_animation_button_text">Views (Normal animation)</string>
+    <string name="views_resize_animation_button_text">views (resize animation)</string>
+    <string name="activity_animation_button_text">activity (something)</string>
+    <string name="fragment_animation_button_text">fragment</string>
+    <string name="show_me_the_money">show me the money</string>
+</resources>
